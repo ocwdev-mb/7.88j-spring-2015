@@ -1,0 +1,60 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Proteomics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Virology"
+    ]
+  ],
+  "legacy_uid": "c5b311ea-35ff-30be-4784-718e0c7bde7a",
+  "instructors": {
+    "content": [
+      "5a6e85fd-b3f7-2125-568f-dd7106b3376b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "69d014bc-b59e-e301-0bd0-2583990ffbd0",
+    "website": "7-88j-protein-folding-and-human-disease-spring-2015"
+  },
+  "course_title": "Protein Folding and Human Disease",
+  "course_description": "This course covers amino acid sequence control of protein folding, misfolding, amyloid polymerization and aggregation. Readings and discussions address topics such as chaperone structure and function, folding and assembly of fibrous proteins, and pathologies associated with protein misfolding and aggregation in Alzheimer's, Parkinson's, Huntington's and other protein deposition diseases. Students are required to write and present a research paper.\n",
+  "department_numbers": [
+    "7",
+    "5",
+    "10"
+  ],
+  "extra_course_numbers": "5.48J,10.543J",
+  "primary_course_number": "7.88J",
+  "course_image_thumbnail": {
+    "content": "86a4cb92-cadc-005a-bb23-d67438717cef",
+    "website": "7-88j-protein-folding-and-human-disease-spring-2015"
+  },
+  "learning_resource_types": [
+    "Projects",
+    "Written Assignments"
+  ],
+  "site_uid": "d54ff163-58fa-4368-97bb-3bc8447aaa57",
+  "site_short_id": "7.88j-spring-2015",
+  "title": "Course Metadata"
+}
